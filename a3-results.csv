@@ -1,0 +1,4 @@
+Model,"RAVDESS, unscaled","RAVDESS, scaled","Caleb, unscaled","Caleb, scaled"
+kNN (tuned),51.04%,61.46%,13.33%,26.67%
+SVM (tuned),52.78%,60.42%,13.33%,13.33%
+Random Forest (tuned),60.76%,59.72%,23.33%,20.00%
